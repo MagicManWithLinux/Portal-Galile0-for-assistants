@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "portal1_materials\signage/signage_overlay_fling1"
+	"$decal" 1
+	"$surfaceprop" "glass"
+	"$selfillum" 1
+	"%keywords" "portal"
+}

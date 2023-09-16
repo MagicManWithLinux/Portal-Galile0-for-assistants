@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "galileo/galileo_modular_concrete_floor001anew"
+	"$surfaceprop" "concrete"
+	"%keywords" "portal"
+	"$bumpmap" "galileo/galileo_modular_concrete_floor001anew_normal"
+}

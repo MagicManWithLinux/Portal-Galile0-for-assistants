@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	$basetexture "models/props_galileo/studio_decor/studio_decor_1"
+	$surfaceprop Plastic
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.05 0.05 0.05]"
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongwarptexture "models/props_galileo/studio_decor/studio_decor_1_rg"
+	$phongexponent 5
+	$basemapalphaphongmask 1
+}

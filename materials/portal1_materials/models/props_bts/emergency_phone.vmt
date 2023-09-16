@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "portal1_materials\models\props_bts/emergency_phone"
+	"envmap" "env_cubemap"
+  	"$model"	1
+
+
+
+
+
+
+}

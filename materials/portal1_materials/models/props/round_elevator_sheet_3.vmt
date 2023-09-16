@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "portal1_materials\models/props/Round_elevator_sheet_3"
+	"$surfaceprop"	"metal"
+	"$bumpmap" "portal1_materials\portal1_materials\models/props/Round_elevator_sheet_3_normal"
+	"$selfillum"	1
+	"$normalmapalphaenvmapmask" 1	
+	//"$envmap"	"env_cubemap"
+	//"$envmaptint"	"[9 9 9]"
+	//phong properties
+	"$phong"	"1"
+	"$phongboost"	"3"
+	"$phongexponenttexture" "portal1_materials\models/props/Round_elevator_sheet_3_exponent"
+	"$phongfresnelranges"	"[2 1.5 2]"
+}

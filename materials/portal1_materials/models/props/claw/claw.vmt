@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "portal1_materials\models/props/claw/claw"
+	"$surfaceprop"	"metal"
+}

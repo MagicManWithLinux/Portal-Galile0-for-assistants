@@ -1,0 +1,26 @@
+"GameInfo"
+{
+	game 	"Portal: Galile0 для Лаборантов"
+	title 	"Portal: Galile0 для Лаборантов"
+	GameData	"portal2.fgd"
+	type	singleplayer_only
+	gamelogo 	1
+	icon	"resource/icon"
+
+	developer	"Vertical Subdivision"
+	developer_url	"https://steamcommunity.com/id/bel_off/"
+	manual	"Знать всё на свете нереально, но я, мечту свою лелея, решил проблему гениально - я подключаюсь к Галилео!"
+	icon	"resource/icon"
+	FileSystem
+	{
+		SteamAppId	620  // Portal 2 has ID 620
+		ToolsAppId	211  // Hammer
+
+		SearchPaths
+		{
+			Game	|gameinfo_path|.
+			Game	portal2
+			Game	update
+		}
+	}
+}

@@ -1,0 +1,7 @@
+"LightMappedGeneric"
+{
+  "$basetexture" "portal1_materials\signage/clock/clock_dots"
+  "$surfaceprop" "glass"
+  "$selfillum" 1
+  "%keywords" "portal"
+}

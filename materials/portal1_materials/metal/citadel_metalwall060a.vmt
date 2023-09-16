@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "portal1_materials\Metal/metalwall060a"
+	"$surfaceprop" "metal"
+	"%keywords" "airexchange,combine"
+	"%noportal" 1
+}

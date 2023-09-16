@@ -1,0 +1,8 @@
+"vertexlitGeneric"
+{
+	// Original shader: BaseTexture
+	"$basetexture" "portal1_materials\models/props/hospital_ivstand01"
+//	"$basealphaenvmapmask" 1
+	"$surfaceprop" "wood"
+//	"$envmap" "env_cubemap"
+}

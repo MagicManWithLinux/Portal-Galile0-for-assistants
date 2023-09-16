@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "portal1_materials\signage/overlay_aperture_logo_worn"
+	"$translucent" 1
+	"$decal" 1
+	"$surfaceprop" "glass"
+	"%keywords" "portal"
+}

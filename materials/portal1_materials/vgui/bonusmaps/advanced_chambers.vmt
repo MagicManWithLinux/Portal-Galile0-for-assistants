@@ -1,0 +1,6 @@
+//"LightmappedGeneric"
+"UnlitGeneric"
+{
+	"$basetexture" "portal1_materials\vgui/bonusmaps/advanced_chambers"
+	"$vertexalpha" 1
+}

@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_galileo/sonymonitor/sonymonitor_texture2"
+	"$surfaceprop" "glass"
+	"Proxies"
+{
+	"AnimatedTexture"
+{
+	"animatedTextureVar" "$basetexture"
+	"animatedTextureFrameNumVar" "$frame"
+	"animatedTextureFrameRate" "30"
+}
+}
+}

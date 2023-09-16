@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	$basetexture "models/props_galileo/studio_decor/studio_decor_1_glass"
+	$surfaceprop Glass
+
+	$translucent 1
+	$nocull 1
+
+	$envmap "env_cubemap"
+	$envmaptint "[1 1 1]"
+}

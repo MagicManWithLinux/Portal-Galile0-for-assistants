@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	$basetexture "vgui/logos/galileo_logo"
+	"$translucent" 1
+	"$ignorez" 1
+}
