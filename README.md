@@ -3,7 +3,7 @@
 ## Скачиваем
 Нажимаем `Code -> Download ZIP`, затем перекидываем по пути `C:\Program Files (x86)\Steam\steamapps\sourcemods`\
 \
-![изображение](https://github.com/MagicManWithLinux/Portal-Galile0-for-assistants/assets/94105164/6261fea9-1174-49b5-bf41-285ca1d006b7)
+![изображение](https://github.com/MagicManWithLinux/Portal-Galile0-for-assistants/assets/94105164/8a49d11d-38a5-41f6-9928-351b27127698)
 ## Установка и настройка Hammer++
 Для работы со всем этим в стиме нам надо скачать:
 - Portal 2
@@ -16,11 +16,11 @@
 Затем переходим по пути `C:\Program Files (x86)\Steam\steamapps\common\Portal 2`, выделяем папки `portal2`, `portal2_dlc1`, `portal2_dlc2` ПКМ по ним, выбираем `Запомнить источник ссылки`, преходим в `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive`, ПКМ по свободному месту `Поместить как... -> Символическая ссылка`\
 Папка с CS:GO должна выглядеть примерно так\
 \
-![268470506-a8fee7ec-500b-4fee-8bac-32090f5382b3](https://github.com/MagicManWithLinux/Portal-Galile0-for-assistants/assets/94105164/4b125e54-4a8d-443f-a762-d72a140a1b31)\
+![268470506-a8fee7ec-500b-4fee-8bac-32090f5382b3](https://github.com/MagicManWithLinux/Portal-Galile0-for-assistants/assets/94105164/369a272a-9fe2-4e72-b295-f8ed0353b725)\
 \
 Далее открываем Hammer++ и нас будет приветствовать вот такое окно:\
 \
-![268470538-b8095d3b-f823-46d0-8f08-9128596c4f18](https://github.com/MagicManWithLinux/Portal-Galile0-for-assistants/assets/94105164/d211dc45-7f5a-48a3-b5fc-41b9b76eb864)\
+![268470538-b8095d3b-f823-46d0-8f08-9128596c4f18](https://github.com/MagicManWithLinux/Portal-Galile0-for-assistants/assets/94105164/185910e9-9049-4b7a-a77e-c86e50053993)\
 \
 Нажимаем нет, после чего откроется конфигурационное окно\
 Выставляем параметры так:
@@ -53,7 +53,7 @@
  
 Всё это должно выглядеть примерно так:\
 \
-![изображение](https://github.com/MagicManWithLinux/Portal-Galile0-for-assistants/assets/94105164/ccf816ef-0ccc-45f7-97e3-2cd588b86f27)![изображение](https://github.com/MagicManWithLinux/Portal-Galile0-for-assistants/assets/94105164/bbff70c2-7520-4dd9-9335-a2bbf1cdf6e6)\
+![изображение](https://github.com/MagicManWithLinux/Portal-Galile0-for-assistants/assets/94105164/4b9ee6b3-2615-4454-a9a6-3ca735ad39aa)![изображение](https://github.com/MagicManWithLinux/Portal-Galile0-for-assistants/assets/94105164/314a4910-6be1-4f34-8196-4773ec36ce1f)\
 \
 Всё! Можем спокойно пользоваться Хаммером
 ## Вопросы и проблемы
