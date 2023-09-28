@@ -8,9 +8,13 @@
 Для работы со всем этим в стиме нам надо скачать:
 - Portal 2
 - Portal 2 Authoring Tools
-- Counter-Strike: Global Offensive
+- Counter-Strike 2 [csgo_demo_viewer]
 
 
+Для того чтобы скачать Counter-Strike 2 [csgo_demo_viewer], в стиме нажимаем `ПКМ по Counter-Strike 2 -> Бета-версии -> csgo_demo_viewer`\
+\
+![изображение](https://github.com/MagicManWithLinux/Portal-Galile0-for-assistants/assets/94105164/68b96178-a922-42d5-86ec-c5118bd3aec7)\
+\
 Далее скачиваем [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/download.html) версию для CS:GO, [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html#contact)\
 Открываем архив `hammerplusplus_build....zip` и перекидываем папку `bin` по пути `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive`\
 Затем переходим по пути `C:\Program Files (x86)\Steam\steamapps\common\Portal 2`, выделяем папки `portal2`, `portal2_dlc1`, `portal2_dlc2` ПКМ по ним, выбираем `Запомнить источник ссылки`, преходим в `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive`, ПКМ по свободному месту `Поместить как... -> Символическая ссылка`\
