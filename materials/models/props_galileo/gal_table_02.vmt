@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+$basetexture "models\elevator\elevator_glass2"
+// $basetexture "props_galile0/gal_table_02"
+
+
+$surfaceprop plastic
+$envmap env_cubemap
+$envmaptint "[.20 .30 .35]"
+$translucent 1
+}

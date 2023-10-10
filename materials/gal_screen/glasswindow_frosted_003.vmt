@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+// File Created by Wall Worm Pro ( https://dev.wallworm.com )
+
+// BEGIN Textures
+	$basetexture "portal1_materials/Glass/glasswindow_frosted_003_dx8"
+// END Textures
+
+
+	"$surfaceprop" "glass"
+
+// BEGIN Transparency
+	"$translucent" 1
+// END Transparency
+
+
+}

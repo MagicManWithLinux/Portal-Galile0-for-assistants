@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+// File Created by Wall Worm Pro ( https://dev.wallworm.com )
+
+// BEGIN Textures
+	$basetexture "portal1_materials/Wood/woodshelf008a"
+// END Textures
+
+
+	"$surfaceprop" "wood"
+
+}
