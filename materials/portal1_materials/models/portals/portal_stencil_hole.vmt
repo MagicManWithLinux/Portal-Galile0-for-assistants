@@ -6,8 +6,8 @@
 
 	"<DX90"
 	{
-		"$PortalMaskTexture" "models/portals/portal-mask-dx8"
-		"$PortalColorTexture" "models/portals/portal-mask-dx8"
+		"$PortalMaskTexture" "portal1_materials/models/portals/portal-mask-dx8"
+		"$PortalColorTexture" "portal1_materials/models/portals/portal-mask-dx8"
 	}
 
 	"$time" "0.0"

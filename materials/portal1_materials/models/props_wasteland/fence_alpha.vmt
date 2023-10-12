@@ -4,7 +4,7 @@
 	"$AlphaTestReference" "0.3"
 	"$AllowAlphaToCoverage" "1"
 
-	"$basetexture" "portal1_materials\Models/props_wasteland/fence_alpha"
+	"$basetexture" "portal1_materials/Models/props_wasteland/fence_alpha"
 	"%compilepassbullets" 1
 	"$surfaceprop" "chainlink"
 	"$nodecal" 1

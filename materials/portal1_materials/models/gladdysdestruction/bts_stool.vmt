@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models/props_bts/bts_stool"
+	"$basetexture" "portal1_materials/models/props_bts/bts_stool"
 	"$surfaceprop"	"default"
 	"$model"	1
 }

@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\sprites/grav_flare"
+	"$basetexture" "portal1_materials/sprites/grav_flare"
 //	"$ignorez" 1
 	"$additive" 1
 	"$vertexcolor" 1

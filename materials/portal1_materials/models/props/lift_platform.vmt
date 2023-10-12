@@ -1,14 +1,14 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models\props/lift_platform"
+	"$basetexture" "portal1_materials/models/props/lift_platform"
 
-	"$bumpmap" "portal1_materials\models\props\lift_platform_normal"
+	"$bumpmap" "portal1_materials/models/props\lift_platform_normal"
 	"$phong" "1"
-	"$phongexponenttexture" "portal1_materials\models\props\lift_platform_exponent"
+	"$phongexponenttexture" "portal1_materials/models/props\lift_platform_exponent"
 //	"$phongexponent" "25"
 	
 	"$phongboost" "10"	
-	"$lightwarptexture" "models\props\lift_platform_lightwarp"
+	"$lightwarptexture" "portal1_materials/models/props\lift_platform_lightwarp"
 	"$phongfresnelranges"	"[5 1 2]"
 //	"$halflambert" "1"
 

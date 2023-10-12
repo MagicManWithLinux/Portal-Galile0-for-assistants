@@ -1,11 +1,11 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models/props/sign_frame01/sign_frame01"
+	"$basetexture" "portal1_materials/models/props/sign_frame01/sign_frame01"
 	"$surfaceprop"	"metal"
 	"$basemapalphaphongmask" "1"
 	"$phong" 1
 	"$phongboost"	"2"
-	"$phongexponenttexture" "portal1_materials\models/props/sign_frame01/sign_frame01_exp"
+	"$phongexponenttexture" "portal1_materials/models/props/sign_frame01/sign_frame01_exp"
 	"$phongfresnelranges"	"[2 1.5 2]"
 
 }

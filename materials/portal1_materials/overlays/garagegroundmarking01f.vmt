@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "portal1_materials\overlays/garagegroundmarking01f"
+	"$basetexture" "portal1_materials/overlays/garagegroundmarking01f"
 	"$translucent" 1
 	"$decal" 1
 

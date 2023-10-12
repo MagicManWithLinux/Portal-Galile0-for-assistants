@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\Models/props_animsigns/newsignage_back01"
+	"$basetexture" "portal1_materials/Models/props_animsigns/newsignage_back01"
 
 
 	"$surfaceprop" "metal"

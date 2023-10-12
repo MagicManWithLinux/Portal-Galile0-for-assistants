@@ -1,11 +1,11 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models/props/water_bottle/water_bottle"
+	"$basetexture" "portal1_materials/models/props/water_bottle/water_bottle"
 	"$surfaceprop"	"plastic"
-	"$bumpmap" "portal1_materials\portal1_materials\models/props/water_bottle/water_bottle_n"
+	"$bumpmap" "portal1_materials/models/props/water_bottle/water_bottle_n"
 	//phong properties
 	"$phong"	"1"
 	"$phongboost"	"1"
-	"$phongexponenttexture" "portal1_materials\models/props/water_bottle/water_bottle_exp"
+	"$phongexponenttexture" "portal1_materials/models/props/water_bottle/water_bottle_exp"
 	"$phongfresnelranges"	"[1 1.5 2]"
 }

@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\sprites/portalgun_effects"
+	"$basetexture" "portal1_materials/sprites/portalgun_effects"
 //	"$ignorez" 1
 	"$additive" 1
 	"$vertexcolor" 1

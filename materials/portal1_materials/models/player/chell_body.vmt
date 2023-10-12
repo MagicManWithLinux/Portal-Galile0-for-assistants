@@ -1,16 +1,16 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models\player/chell_body"
-	"$bumpmap" "portal1_materials\models\player/chell_body_normal"
+	"$basetexture" "portal1_materials/models/player/chell_body"
+	"$bumpmap" "portal1_materials/models/player/chell_body_normal"
 	"$halflambert" "1"
 	"$nodecal" "1"
 	"$model" "1"
 	
 	"$phong" "1"
-	"$phongexponenttexture" "portal1_materials\models\player/chell_body_exponent"
+	"$phongexponenttexture" "portal1_materials/models/player/chell_body_exponent"
 //	"$phongexponent" "25"
 	"$phongboost" "6 "	
-	"$lightwarptexture" "models\player/chell_body_lightwarp"
+	"$lightwarptexture" "portal1_materials/models/player/chell_body_lightwarp"
 	"$phongfresnelranges"	"[0.04 0.4 1]"
 
 

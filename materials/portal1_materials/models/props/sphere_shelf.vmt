@@ -1,5 +1,5 @@
 "vertexlitgeneric"
 {
-	"$basetexture" "portal1_materials\models\props/sphere_shelf"
+	"$basetexture" "portal1_materials/models/props/sphere_shelf"
 	"$surfaceprop" "Metal_Box"
 }

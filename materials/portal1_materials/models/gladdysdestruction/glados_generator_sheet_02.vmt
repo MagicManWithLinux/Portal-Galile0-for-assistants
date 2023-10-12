@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models\props_bts/glados_generator_sheet_02"
+	"$basetexture" "portal1_materials/models/props_bts/glados_generator_sheet_02"
 	"envmap" "env_cubemap"
         //"$selfillum" 1
 

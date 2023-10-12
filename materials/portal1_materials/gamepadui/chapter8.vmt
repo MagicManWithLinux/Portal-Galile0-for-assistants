@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\gamepadui/chapter8"
+	"$basetexture" "portal1_materials/gamepadui/chapter8"
 	"$vertexcolor" 1
 	"$vertexalpha" 1
 	"$ignorez" 1

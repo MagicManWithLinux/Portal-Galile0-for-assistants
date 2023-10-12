@@ -1,7 +1,7 @@
 // envmaptint_fix
 "LightmappedGeneric"
 {
-	"$basetexture" "portal1_materials\Metal/metalwall048b_med"
+	"$basetexture" "portal1_materials/Metal/metalwall048b_med"
 	"$surfaceprop" "metal"
 	"%keywords" "portal"
 	"%noportal" 1
@@ -16,7 +16,7 @@
 
 	"LightmappedGeneric_HDR_DX9"
 	{
-		"$bumpmap" "portal1_materials\metal/metalwall048b_med_height-ssbump"
+		"$bumpmap" "portal1_materials/metal/metalwall048b_med_height-ssbump"
 		"$ssbump" "1"
 		"$normalmapalphaenvmapmask" 1
 		"$envmaptint" "[ 0.6 0.5 0.5 ]"
@@ -24,7 +24,7 @@
 
 	"LightmappedGeneric_DX9"
 	{
-		"$bumpmap" "portal1_materials\metal/metalwall048b_med_height-ssbump"
+		"$bumpmap" "portal1_materials/metal/metalwall048b_med_height-ssbump"
 		"$ssbump" "1"
 		"$normalmapalphaenvmapmask" 1
 		"$envmaptint" "[ 0.6 0.5 0.5 ]"
@@ -32,14 +32,14 @@
 
 	"LightmappedGeneric_DX8"
 	{
-		"$bumpmap" "portal1_materials\Metal/metalwall048b_med_normal"
+		"$bumpmap" "portal1_materials/Metal/metalwall048b_med_normal"
 		"$nodiffusebumplighting" 1
 		"$normalmapalphaenvmapmask" 1
 	}
 
 	"LightmappedGeneric_NoBump_DX8"
 	{
-		"$basetexture" "portal1_materials\Metal/metalwall048b_med_dx8"
+		"$basetexture" "portal1_materials/Metal/metalwall048b_med_dx8"
 		"$basealphaenvmapmask" 1
 		"$envmaptint" "[ 0.2 0.15 0.15 ]"
 	}

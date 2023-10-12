@@ -1,6 +1,6 @@
  "LightMappedGeneric"
  {
-  "$basetexture" "portal1_materials\decals/orange_spot"
+  "$basetexture" "portal1_materials/decals/orange_spot"
   "$selfillum" 1
   "%keywords" "portal"
   "$decal" 1

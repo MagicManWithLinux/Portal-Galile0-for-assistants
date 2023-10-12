@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\Effects/brightglow_y"
+	"$basetexture" "portal1_materials/Effects/brightglow_y"
 	"$surfaceprop"	"no_decal"
 	"$additive"	1
 	"$vertexcolor"	1

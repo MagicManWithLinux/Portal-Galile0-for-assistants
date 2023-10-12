@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models/props/vert_door/vert_door"
+	"$basetexture" "portal1_materials/models/props/vert_door/vert_door"
 	"$surfaceprop"	"metal"
 
 	"$selfillum"	1

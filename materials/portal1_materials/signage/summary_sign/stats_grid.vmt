@@ -1,6 +1,6 @@
 "Modulate"
 {
-	"$basetexture" "portal1_materials\signage\summary_sign\stats_grid"
+	"$basetexture" "portal1_materials/signage\summary_sign\stats_grid"
 	"$writez" "0"	// force z to be not written
 	"$texoffset"	"[0 0]"
 	"$texscale"	1

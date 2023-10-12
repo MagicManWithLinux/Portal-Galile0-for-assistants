@@ -1,6 +1,6 @@
 "vertexlitgeneric"
 {
-	"$basetexture" "portal1_materials\models\props/sphere_lit"
+	"$basetexture" "portal1_materials/models/props/sphere_lit"
 	"$envmap" "env_cubemap"
 //	"$basealphaenvmapmask" 1
 	"$surfaceprop" "Metal_Box"

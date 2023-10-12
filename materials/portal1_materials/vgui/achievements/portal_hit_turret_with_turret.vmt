@@ -1,4 +1,4 @@
 "unlitgeneric"
 {
-	"$basetexture" "portal1_materials\vgui\achievements/portal_hit_turret_with_turret"
+	"$basetexture" "portal1_materials/vgui\achievements/portal_hit_turret_with_turret"
 }

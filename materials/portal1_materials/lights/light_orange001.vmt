@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\Lights/light_orange001"
+	"$basetexture" "portal1_materials/Lights/light_orange001"
 	"$selfillum" 1
 	"$surfaceprop" "glass"
 	"$reflectivity" "[0 0 0]"

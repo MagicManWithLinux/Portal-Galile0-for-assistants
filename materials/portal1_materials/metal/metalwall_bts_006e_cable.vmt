@@ -1,6 +1,6 @@
 "LightMappedGeneric"
 {
-	"$basetexture" "portal1_materials\metal/metalwall_bts_006e_cable"
+	"$basetexture" "portal1_materials/metal/metalwall_bts_006e_cable"
         "$surfaceprop" "metal"
         "%keywords" "portal"
         "%noportal" 1

@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\Effects/softglow"
+	"$basetexture" "portal1_materials/Effects/softglow"
 	"$surfaceprop"	"no_decal"
 	"$additive"	1
 	"$vertexcolor"	1

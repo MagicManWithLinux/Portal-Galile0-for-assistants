@@ -1,6 +1,6 @@
 "LightMappedGeneric"
 {
-	"$basetexture" "portal1_materials\overlays/stain_oil_05"
+	"$basetexture" "portal1_materials/overlays/stain_oil_05"
 	"$surfaceprop"	"default"
 	"$translucent"	1
 	"$decal"	1

@@ -1,14 +1,14 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models\player/chell_hair"
+	"$basetexture" "portal1_materials/models/player/chell_hair"
 
 
-	"$bumpmap" "portal1_materials\models\player/chell_hair_normal"
+	"$bumpmap" "portal1_materials/models/player/chell_hair_normal"
 	"$phong" "1"
-	"$phongexponenttexture" "portal1_materials\models\player/chell_hair_exponent"
+	"$phongexponenttexture" "portal1_materials/models/player/chell_hair_exponent"
 	
 	"$phongboost" "10"	
-//	"$lightwarptexture" "models\player/chell_hair_lightwarp"
+//	"$lightwarptexture" "portal1_materials/models/player/chell_hair_lightwarp"
 	"$phongfresnelranges"	"[0 0.5 1]"
 
 

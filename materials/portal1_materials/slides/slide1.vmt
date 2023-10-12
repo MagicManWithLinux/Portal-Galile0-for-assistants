@@ -1,6 +1,6 @@
 "LightMappedGeneric"
 {
-	"$basetexture" "portal1_materials\slides/slide1"
+	"$basetexture" "portal1_materials/slides/slide1"
 	"$surfaceprop"	"default"
 	"$selfillum"	1
 	"%keywords" "portal"

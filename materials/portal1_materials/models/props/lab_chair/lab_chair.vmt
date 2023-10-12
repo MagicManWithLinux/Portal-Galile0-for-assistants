@@ -1,13 +1,13 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models/props/lab_chair/lab_chair"
+	"$basetexture" "portal1_materials/models/props/lab_chair/lab_chair"
 	"$surfaceprop"	"metal"
-	"$bumpmap" "portal1_materials\portal1_materials\models/props/lab_chair/lab_chair_n"
+	"$bumpmap" "portal1_materials/models/props/lab_chair/lab_chair_n"
 
 	//phong properties
 	"$phong"	"1"
 	"$phongboost"	"20"
-	"$phongexponenttexture" "portal1_materials\models/props/lab_chair/lab_chair_exp"
+	"$phongexponenttexture" "portal1_materials/models/props/lab_chair/lab_chair_exp"
 	"$phongfresnelranges"	"[0.5 1 1.5]"
 
 	

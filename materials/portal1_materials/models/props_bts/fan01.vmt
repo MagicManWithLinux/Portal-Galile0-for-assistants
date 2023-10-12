@@ -1,15 +1,15 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models\props_bts/Fan01"
+	"$basetexture" "portal1_materials/models/props_bts/Fan01"
 
 
-	"$bumpmap" "portal1_materials\models\props_bts\Fan01_normal"
+	"$bumpmap" "portal1_materials/models/props_bts/Fan01_normal"
 	"$phong" "1"
-	"$phongexponenttexture" "portal1_materials\models\props_bts\Fan01_exponent"
+	"$phongexponenttexture" "portal1_materials/models/props_bts/Fan01_exponent"
 //	"$phongexponent" "25"
 	
 	"$phongboost" "10"	
-	"$lightwarptexture" "models\props_bts\Fan01_lightwarp"
+	"$lightwarptexture" "portal1_materials/models/props_bts/Fan01_lightwarp"
 	"$phongfresnelranges"	"[5 1 2]"
 //	"$halflambert" "1"
 

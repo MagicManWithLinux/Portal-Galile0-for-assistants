@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "portal1_materials\metal/metal_lift001_gradient"
+	"$basetexture" "portal1_materials/metal/metal_lift001_gradient"
 	"$selfillum" 1
 	"$envmap" "env_cubemap"
 	"$surfaceprop" "metal"

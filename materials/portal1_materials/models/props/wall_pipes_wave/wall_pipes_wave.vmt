@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models/props/wall_pipes_wave/wall_pipes_wave"
+	"$basetexture" "portal1_materials/models/props/wall_pipes_wave/wall_pipes_wave"
 	"$surfaceprop"	"metal"
 	"$envmap"	"env_cubemap"
 	"$basealphaenvmapmask" 1

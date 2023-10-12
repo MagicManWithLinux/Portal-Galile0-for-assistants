@@ -1,15 +1,15 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models\props/switch001"
+	"$basetexture" "portal1_materials/models/props/switch001"
 
 
-	"$bumpmap" "portal1_materials\models\props\switch001_normal"
+	"$bumpmap" "portal1_materials/models/props\switch001_normal"
 	"$phong" "1"
-	"$phongexponenttexture" "portal1_materials\models\props\switch001_exponent"
+	"$phongexponenttexture" "portal1_materials/models/props\switch001_exponent"
 //	"$phongexponent" "25"
 	
 	"$phongboost" "10"	
-	"$lightwarptexture" "models\props\switch001_lightwarp"
+	"$lightwarptexture" "portal1_materials/models/props\switch001_lightwarp"
 	"$phongfresnelranges"	"[5 1 2]"
 //	"$halflambert" "1"
 

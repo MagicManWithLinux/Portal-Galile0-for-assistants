@@ -1,13 +1,13 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models/props/pc_case02/pc_case02_b"
+	"$basetexture" "portal1_materials/models/props/pc_case02/pc_case02_b"
 	"$surfaceprop"	"metal"
-	"$bumpmap" "portal1_materials\portal1_materials\models/props/pc_case02/pc_case02_n"
+	"$bumpmap" "portal1_materials/models/props/pc_case02/pc_case02_n"
 	
 	//phong properties
 	"$phong"	"1"
 	"$phongboost"	"6"
-	"$phongexponenttexture" "portal1_materials\models/props/pc_case02/pc_case02_exp"
+	"$phongexponenttexture" "portal1_materials/models/props/pc_case02/pc_case02_exp"
 	"$phongfresnelranges"	"[1 1.5 2]"
 
 

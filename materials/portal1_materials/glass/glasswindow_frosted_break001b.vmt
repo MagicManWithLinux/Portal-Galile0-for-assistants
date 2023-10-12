@@ -1,6 +1,6 @@
 "ShatteredGlass"
 {
-	"$basetexture" "portal1_materials\Glass/glasswindow_frosted_break001b"
+	"$basetexture" "portal1_materials/Glass/glasswindow_frosted_break001b"
 	"$detail" "Glass/glasswindow_frosted_break001b"
 	"$envmap" "env_cubemap"
 	"$surfaceprop" "glass"

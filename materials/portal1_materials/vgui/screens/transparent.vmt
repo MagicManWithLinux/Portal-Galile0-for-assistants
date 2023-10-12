@@ -1,6 +1,6 @@
 "Modulate"
 {
-	"$basetexture" "portal1_materials\VGUI/screens/transparent"
+	"$basetexture" "portal1_materials/VGUI/screens/transparent"
 	"$writez" 1	// force z to be written
 	"$texoffset"	"[0 0]"
 	"$texscale"	1

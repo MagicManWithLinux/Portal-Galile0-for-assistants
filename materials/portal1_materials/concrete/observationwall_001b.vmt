@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "portal1_materials\Concrete/observationwall_001b"
+	"$basetexture" "portal1_materials/Concrete/observationwall_001b"
 	"$surfaceprop" "concrete"
 	"%keywords" "portal"
 
@@ -13,7 +13,7 @@
 		"$envmaptint" "[ .40 .40 .40 ]"
 
 
-		"$bumpmap" "portal1_materials\concrete/observationwall_001b_height-ssbump"
+		"$bumpmap" "portal1_materials/concrete/observationwall_001b_height-ssbump"
 		"$ssbump" "1"
 
         	"$detail" "detail\detail_concrete_03"
@@ -32,7 +32,7 @@
 		"$envmaptint" "[ .40 .40 .40 ]"
 
 
-		"$bumpmap" "portal1_materials\concrete/observationwall_001b_height-ssbump"
+		"$bumpmap" "portal1_materials/concrete/observationwall_001b_height-ssbump"
 		"$ssbump" "1"
 
         	"$detail" "detail\detail_concrete_03"
@@ -43,13 +43,13 @@
 
 	"LightmappedGeneric_DX8"
 	{
-		"$bumpmap" "portal1_materials\Concrete/observationwall_001b_normal"
+		"$bumpmap" "portal1_materials/Concrete/observationwall_001b_normal"
 		"$nodiffusebumplighting" 1
 	}
 
 	"LightmappedGeneric_NoBump_DX8"
 	{
-		"$basetexture" "portal1_materials\Concrete/observationwall_001b"
+		"$basetexture" "portal1_materials/Concrete/observationwall_001b"
 	}
 
 }

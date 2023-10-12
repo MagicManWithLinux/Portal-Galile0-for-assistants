@@ -1,7 +1,7 @@
 "UnlitTwoTexture"
 {
-	"$basetexture"  "effects/Cleanser_Field/cleanser_field_edge"
-	"$texture2"  "effects/Cleanser_Field/cleanser_noise"
+	"$basetexture"  "portal1_materials/effects/Cleanser_Field/cleanser_field_edge"
+	"$texture2"  "portal1_materials/effects/Cleanser_Field/cleanser_noise"
 	"$additive" "1"
 	"$tranlucent" "1"
 

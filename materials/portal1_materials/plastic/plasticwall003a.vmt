@@ -1,9 +1,9 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "portal1_materials\plastic/plasticwall003a"
-	//"$basetexture" "portal1_materials\plastic/plasticwall003a_test"
-	//"$bumpmap" "portal1_materials\portal1_materials\plastic/plasticwall003a_normal"
-	"$bumpmap" "portal1_materials\plastic/plasticwall003a_height-ssbump"
+	"$basetexture" "portal1_materials/plastic/plasticwall003a"
+	//"$basetexture" "portal1_materials/plastic/plasticwall003a_test"
+	//"$bumpmap" "portal1_materials/plastic/plasticwall003a_normal"
+	"$bumpmap" "portal1_materials/plastic/plasticwall003a_height-ssbump"
 	"$ssbump" "1"
 	"%keywords" "portal"
 

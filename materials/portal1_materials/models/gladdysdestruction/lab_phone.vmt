@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models\props_bts/lab_phone"
+	"$basetexture" "portal1_materials/models/props_bts/lab_phone"
 	"envmap" "env_cubemap"
   	"$model"	1
 

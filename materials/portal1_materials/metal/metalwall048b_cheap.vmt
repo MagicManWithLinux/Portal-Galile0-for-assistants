@@ -2,7 +2,7 @@
 "LightmappedGeneric"
 {
 	// same as o48b, with no bump or spec
-	"$basetexture" "portal1_materials\Metal/metalwall048b"
+	"$basetexture" "portal1_materials/Metal/metalwall048b"
 	"$surfaceprop" "metal"
 	"%keywords" "combine, portal"
 	"%noportal" 1

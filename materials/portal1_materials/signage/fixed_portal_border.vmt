@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "portal1_materials\signage/fixed_portal_border"
+	"$basetexture" "portal1_materials/signage/fixed_portal_border"
 	"$surfaceprop" "glass"
 	"$selfillum" 1
 	"%keywords" "portal"

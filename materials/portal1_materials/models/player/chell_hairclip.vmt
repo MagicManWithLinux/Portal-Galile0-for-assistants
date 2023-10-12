@@ -1,9 +1,9 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models\player/chell_hairclip"
+	"$basetexture" "portal1_materials/models/player/chell_hairclip"
 
 
-	"$bumpmap" "portal1_materials\models\player/chell_hairclip_normal"
+	"$bumpmap" "portal1_materials/models/player/chell_hairclip_normal"
 	"$phong" "1"
 	
 	"$phongboost" "10"	

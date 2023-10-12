@@ -1,6 +1,6 @@
 "Unlittwotexture"
 {
-	"$basetexture" "portal1_materials\Effects/light_rail_beam1"
+	"$basetexture" "portal1_materials/Effects/light_rail_beam1"
 	"$texture2" "Effects/light_rail_beam2"
 	"$translucent" "1"
 	"$additive" 1

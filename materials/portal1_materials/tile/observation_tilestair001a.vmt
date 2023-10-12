@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "portal1_materials\Tile/observation_tilestair001a"
+	"$basetexture" "portal1_materials/Tile/observation_tilestair001a"
 	"$surfaceprop" "tile"
 	"%keywords" "portal"
 
@@ -12,25 +12,25 @@
 
 	"LightmappedGeneric_HDR_DX9"
 	{
-		"$bumpmap" "portal1_materials\tile/observation_tilestair001a_height-ssbump"
+		"$bumpmap" "portal1_materials/tile/observation_tilestair001a_height-ssbump"
 		"$ssbump" "1"
 	}
 
 	"LightmappedGeneric_DX9"
 	{
-		"$bumpmap" "portal1_materials\tile/observation_tilestair001a_height-ssbump"
+		"$bumpmap" "portal1_materials/tile/observation_tilestair001a_height-ssbump"
 		"$ssbump" "1"
 	}
 
 	"LightmappedGeneric_DX8"
 	{
-		"$bumpmap" "portal1_materials\tile/observation_tilestair001a_normal"
+		"$bumpmap" "portal1_materials/tile/observation_tilestair001a_normal"
 		"$nodiffusebumplighting" 1
 	}
 
 	"LightmappedGeneric_NoBump_DX8"
 	{
-		"$basetexture" "portal1_materials\tile/observation_tilestair001a"
+		"$basetexture" "portal1_materials/tile/observation_tilestair001a"
 		"$basealphaenvmapmask" 1
 	}
 }

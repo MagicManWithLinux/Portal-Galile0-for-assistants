@@ -1,15 +1,15 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models\props/Ball_Catcher_sheet"
+	"$basetexture" "portal1_materials/models/props/Ball_Catcher_sheet"
 
 
-	"$bumpmap" "portal1_materials\models\props\Ball_Catcher_sheet_normal"
+	"$bumpmap" "portal1_materials/models/props\Ball_Catcher_sheet_normal"
 	"$phong" "1"
-	"$phongexponenttexture" "portal1_materials\models\props\Ball_Catcher_sheet_exponent"
+	"$phongexponenttexture" "portal1_materials/models/props\Ball_Catcher_sheet_exponent"
 //	"$phongexponent" "25"
 	
 	"$phongboost" "10"	
-	"$lightwarptexture" "models\props\Ball_Catcher_sheet_lightwarp"
+	"$lightwarptexture" "portal1_materials/models/props\Ball_Catcher_sheet_lightwarp"
 	"$phongfresnelranges"	"[5 1 2]"
 //	"$halflambert" "1"
 

@@ -1,7 +1,7 @@
 "LightMappedGeneric"
 {
-	"$basetexture" "portal1_materials\metal/metalwall_bts_006b"
-	"$bumpmap" "portal1_materials\Metal/metalwall_bts_006a_normal"
+	"$basetexture" "portal1_materials/metal/metalwall_bts_006b"
+	"$bumpmap" "portal1_materials/Metal/metalwall_bts_006a_normal"
 	"%keywords" "portal"
 	"$surfaceprop" "metal"
 	"$envmap" "env_cubemap"

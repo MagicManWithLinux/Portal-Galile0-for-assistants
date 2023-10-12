@@ -1,7 +1,7 @@
 "vertexlitGeneric"
 {
 	// Original shader: BaseTexture
-	"$basetexture" "portal1_materials\models/props_c17/door01a_skin6"
+	"$basetexture" "portal1_materials/models/props_c17/door01a_skin6"
 	"$surfaceprop" "metal"
 	"$envmap"  "env_cubemap"
 	"$basealphaenvmapmask" 1

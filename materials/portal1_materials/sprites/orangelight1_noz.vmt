@@ -2,6 +2,6 @@
 {
 	"$spriteorientation" "vp_parallel"
 	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "portal1_materials\sprites/orangelight1"
+	"$basetexture" "portal1_materials/sprites/orangelight1"
 	"$ignorez" "1"
 }

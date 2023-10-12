@@ -2,7 +2,7 @@
 "LightmappedGeneric"
 {
 
-	"$basetexture" "portal1_materials\nature/hazard_liquid"
+	"$basetexture" "portal1_materials/nature/hazard_liquid"
 
 	"$selfillum" 1
 	"$surfaceprop" "slime"
@@ -30,12 +30,12 @@
 
 	"<DX90"
 	{
-		"$bumpmap" "portal1_materials\Nature/slime_normal"
+		"$bumpmap" "portal1_materials/Nature/slime_normal"
 	}
 	
 	"LightmappedGeneric_NoBump_DX8"
 	{
-		"$basetexture" "portal1_materials\Nature/hazard_liquid"
+		"$basetexture" "portal1_materials/Nature/hazard_liquid"
 		"$basealphaenvmapmask" 1
 		"$envmaptint" "[ 0.1 0.08 0.08 ]"
 	}

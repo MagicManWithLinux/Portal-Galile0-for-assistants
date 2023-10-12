@@ -1,7 +1,7 @@
 "UnlitGeneric"
 {
 
- 	"$basetexture" "portal1_materials\skybox/bts_custom_cubemapdn.vtf"
+ 	"$basetexture" "portal1_materials/skybox/bts_custom_cubemapdn.vtf"
 	"$hdrbasetexture" "skybox/bts_custom_cubemapdn.vtf"
  	$ignorez 1
 }

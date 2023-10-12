@@ -1,7 +1,7 @@
 "LightmappedGeneric"
 {
 	// Original shader: BaseTimesLightmapSelfIllum
-	"$basetexture" "portal1_materials\lights/light_recessedcool002"
+	"$basetexture" "portal1_materials/lights/light_recessedcool002"
 	"$selfillum" 1
 	"$surfaceprop" "glass"
 	"%keywords" "portal"

@@ -1,15 +1,15 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models\props/Combine_Ball_Launcher"
+	"$basetexture" "portal1_materials/models/props/Combine_Ball_Launcher"
 
 
-	"$bumpmap" "portal1_materials\models\props\Combine_Ball_Launcher_normal"
+	"$bumpmap" "portal1_materials/models/props\Combine_Ball_Launcher_normal"
 	"$phong" "1"
-	"$phongexponenttexture" "portal1_materials\models\props\Combine_Ball_Launcher_exponent"
+	"$phongexponenttexture" "portal1_materials/models/props\Combine_Ball_Launcher_exponent"
 //	"$phongexponent" "25"
 	
 	"$phongboost" "10"	
-	"$lightwarptexture" "models\props\Combine_Ball_Launcher_lightwarp"
+	"$lightwarptexture" "portal1_materials/models/props\Combine_Ball_Launcher_lightwarp"
 	"$phongfresnelranges"	"[5 1 2]"
 //	"$halflambert" "1"
 

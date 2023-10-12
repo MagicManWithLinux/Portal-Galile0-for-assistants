@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\vgui/slideshow/glados/glados_screens_barninterior001"
+	"$basetexture" "portal1_materials/vgui/slideshow/glados/glados_screens_barninterior001"
 	//"$selfillum" 1
 	"%keywords" "test2, farm"
 }

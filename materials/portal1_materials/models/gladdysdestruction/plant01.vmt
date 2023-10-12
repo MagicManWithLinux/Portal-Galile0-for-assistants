@@ -1,5 +1,5 @@
 VertexLitGeneric
 {
-	"$basetexture" "portal1_materials\models\props_bts\plant01"
+	"$basetexture" "portal1_materials/models/props_bts/plant01"
 
 }

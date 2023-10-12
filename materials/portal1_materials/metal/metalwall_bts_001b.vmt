@@ -1,9 +1,9 @@
 // envmaptint_fix
 "LightmappedGeneric"
 {
-	"$basetexture" "portal1_materials\Metal/metalwall_bts_001b"
+	"$basetexture" "portal1_materials/Metal/metalwall_bts_001b"
 	"%keywords" "portal"
-	"$bumpmap" "portal1_materials\Metal/metalwall_bts_001a_normal"
+	"$bumpmap" "portal1_materials/Metal/metalwall_bts_001a_normal"
 	"$surfaceprop" "metal"
 	"$envmaptint" "[ .5 .5 .75 ]"
 	"$envmap" "env_cubemap"

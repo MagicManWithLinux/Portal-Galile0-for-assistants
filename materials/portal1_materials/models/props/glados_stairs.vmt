@@ -1,15 +1,15 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models\props/Glados_stairs"
+	"$basetexture" "portal1_materials/models/props/Glados_stairs"
 	"envmap" "env_cubemap"
 		"%noportal" 1
         //"$selfillum" 1
 	"$surfaceprop"	"metal"
-	"$bumpmap" "portal1_materials\portal1_materials\models/props/glados_stairs_normal"
+	"$bumpmap" "portal1_materials/models/props/glados_stairs_normal"
 	//phong properties
 	"$phong"	"1"
 	"$phongboost"	"1"
-	"$phongexponenttexture" "portal1_materials\models/props/glados_stairs_exponent"
+	"$phongexponenttexture" "portal1_materials/models/props/glados_stairs_exponent"
 	"$phongfresnelranges"	"[1 1.5 1]"
 
 

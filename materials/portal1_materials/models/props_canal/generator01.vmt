@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {	
-	"$basetexture" "portal1_materials\Models/props_canal/generator01"
+	"$basetexture" "portal1_materials/Models/props_canal/generator01"
 	"$surfaceprop" "metal"
 	"$envmap" "env_cubemap"
 	"$basealphaenvmapmask" 1

@@ -1,14 +1,14 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models\props/clock"
+	"$basetexture" "portal1_materials/models/props/clock"
 
-	"$bumpmap" "portal1_materials\models\props\clock_normal"
+	"$bumpmap" "portal1_materials/models/props\clock_normal"
 	"$phong" "1"
-	"$phongexponenttexture" "portal1_materials\models\props\clock_exponent"
+	"$phongexponenttexture" "portal1_materials/models/props\clock_exponent"
 //	"$phongexponent" "25"
 	
 	"$phongboost" "3"	
-	"$lightwarptexture" "models\props\clock_lightwarp"
+	"$lightwarptexture" "portal1_materials/models/props\clock_lightwarp"
 	"$phongfresnelranges"	"[5 1 2]"
 //	"$halflambert" "1"
 

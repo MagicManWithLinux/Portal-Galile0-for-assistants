@@ -1,6 +1,6 @@
 //"LightmappedGeneric"
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\vgui/bonusmaps/testchmb_a_14_advanced"
+	"$basetexture" "portal1_materials/vgui/bonusmaps/testchmb_a_14_advanced"
 	"$vertexalpha" 1
 }

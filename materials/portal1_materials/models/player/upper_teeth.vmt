@@ -1,6 +1,6 @@
 "Teeth"
 {
-	"$basetexture" "portal1_materials\models/player/upper_teeth"
+	"$basetexture" "portal1_materials/models/player/upper_teeth"
 	"$model" 1
 	"$clientshader" "MouthShader"
 	"$halflambert" 1

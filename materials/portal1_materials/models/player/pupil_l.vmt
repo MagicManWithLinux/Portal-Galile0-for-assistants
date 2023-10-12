@@ -1,4 +1,4 @@
 "Eyeball"
 {
-	"$basetexture" "portal1_materials\models/player/pupil_l"
+	"$basetexture" "portal1_materials/models/player/pupil_l"
 }

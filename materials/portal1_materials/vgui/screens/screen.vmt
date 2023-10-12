@@ -1,5 +1,5 @@
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\vgui/screens/screen"
+	"$basetexture" "portal1_materials/vgui/screens/screen"
 
 }

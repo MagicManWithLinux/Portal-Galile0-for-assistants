@@ -1,4 +1,4 @@
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\VGUI\achievements\portal_get_allgold"
+	"$basetexture" "portal1_materials/VGUI\achievements\portal_get_allgold"
 }

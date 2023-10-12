@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "portal1_materials\signage/signage_overlay_toxic"
+	"$basetexture" "portal1_materials/signage/signage_overlay_toxic"
 	"$decal" 1
 	"$surfaceprop" "glass"
 	"$selfillum" 1

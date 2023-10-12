@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models\props_bts/Rocket_Sentry_inactive"
+	"$basetexture" "portal1_materials/models/props_bts/Rocket_Sentry_inactive"
 	"envmap" "env_cubemap"
         //"$selfillum" 1
 

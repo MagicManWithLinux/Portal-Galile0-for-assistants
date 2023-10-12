@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "portal1_materials\metal/metalwall048c_gradient"
+	"$basetexture" "portal1_materials/metal/metalwall048c_gradient"
 	"$selfillum" 1
 	"$surfaceprop" "glass" 
 	"%keywords" "portal"

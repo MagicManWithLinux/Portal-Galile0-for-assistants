@@ -1,4 +1,4 @@
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\VGUI\achievements\portal_kill_companioncube"
+	"$basetexture" "portal1_materials/VGUI\achievements\portal_kill_companioncube"
 }

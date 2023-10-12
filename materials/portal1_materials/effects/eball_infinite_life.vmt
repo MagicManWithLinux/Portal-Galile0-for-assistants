@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\effects/comball/comball"
+	"$basetexture" "portal1_materials/effects/comball/comball"
 	"$additive" 1
 	"$translucent" 1
 	"$vertexcolor" 1

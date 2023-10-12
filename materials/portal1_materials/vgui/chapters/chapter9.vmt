@@ -1,7 +1,7 @@
 //"LightmappedGeneric"
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\vgui/chapters/chapter9"
+	"$basetexture" "portal1_materials/vgui/chapters/chapter9"
 	"$vertexalpha" 1
 	"$gammaColorRead" "1"
 	"$linearWrite" "1"

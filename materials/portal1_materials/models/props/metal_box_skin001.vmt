@@ -1,15 +1,15 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models\props\metal_box_skin001"
+	"$basetexture" "portal1_materials/models/props\metal_box_skin001"
 
 
-	"$bumpmap" "portal1_materials\models\props\Metal_box_normal"
+	"$bumpmap" "portal1_materials/models/props\Metal_box_normal"
 	"$phong" "1"
-	"$phongexponenttexture" "portal1_materials\models\props\Metal_box_exponent"
+	"$phongexponenttexture" "portal1_materials/models/props\Metal_box_exponent"
 
 	
 	"$phongboost" "10"	
-	"$lightwarptexture" "models\props\Metal_box_lightwarp"
+	"$lightwarptexture" "portal1_materials/models/props\Metal_box_lightwarp"
 	"$phongfresnelranges"	"[5 1 2]"
 
 //	"$envmap" "env_cubemap"

@@ -1,7 +1,7 @@
 "Modulate"
 {
-//	"$basetexture" "portal1_materials\effects/vguiscreenoverlay"
-	"$basetexture" "portal1_materials\vgui/screens/vgui_overlay"
+//	"$basetexture" "portal1_materials/effects/vguiscreenoverlay"
+	"$basetexture" "portal1_materials/vgui/screens/vgui_overlay"
 	"$writez" 1	// force z to be written
 
 	"$texoffset"	"[0 0]"

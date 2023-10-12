@@ -1,7 +1,7 @@
 "LightmappedGeneric"
 {
 	"$translucent" 1
-	"$basetexture" "portal1_materials\overlays/overlay_scrawlings_exit01"
+	"$basetexture" "portal1_materials/overlays/overlay_scrawlings_exit01"
 	"$decal" 1
 	"%keywords" "portal"
 }

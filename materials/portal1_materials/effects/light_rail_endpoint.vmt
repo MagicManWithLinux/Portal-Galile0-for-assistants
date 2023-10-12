@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\effects/combinemuzzle1_dark"
+	"$basetexture" "portal1_materials/effects/combinemuzzle1_dark"
 	"$additive" "1"
 	"$vertexalpha" "1"
 	"$vertexcolor" 1

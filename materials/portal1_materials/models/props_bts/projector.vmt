@@ -1,7 +1,7 @@
 VertexLitGeneric
 {
-	"$basetexture" "portal1_materials\models\props_bts\projector"
+	"$basetexture" "portal1_materials/models/props_bts/projector"
 	"$envmap" "env_cubemap"
-	"$envmapmask" "models\props_bts\projector_ref"
+	"$envmapmask" "portal1_materials/models/props_bts/projector_ref"
 	"$selfillum" "1"
 }

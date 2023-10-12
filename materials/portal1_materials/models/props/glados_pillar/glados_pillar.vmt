@@ -1,14 +1,14 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models/props/glados_pillar/glados_pillar"
+	"$basetexture" "portal1_materials/models/props/glados_pillar/glados_pillar"
 	"$surfaceprop"	"metal"
 	"$selfillum" 1
-	"$bumpmap" "portal1_materials\portal1_materials\models/props/glados_pillar/glados_pillar_n"	
+	"$bumpmap" "portal1_materials/models/props/glados_pillar/glados_pillar_n"	
 
 	//phong properties
 	"$phong"	"1"
 	"$phongboost"	"4"
-	"$phongexponenttexture" "portal1_materials\models/props/glados_pillar/glados_pillar_exp"
+	"$phongexponenttexture" "portal1_materials/models/props/glados_pillar/glados_pillar_exp"
 	"$phongfresnelranges"	"[3 1.5 2]"
 "Proxies"
 {

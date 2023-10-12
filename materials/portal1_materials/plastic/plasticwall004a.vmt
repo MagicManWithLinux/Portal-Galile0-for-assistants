@@ -1,7 +1,7 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "portal1_materials\plastic/plasticwall004a"
-	"$bumpmap" "portal1_materials\plastic/plasticwall004a_height-ssbump"
+	"$basetexture" "portal1_materials/plastic/plasticwall004a"
+	"$bumpmap" "portal1_materials/plastic/plasticwall004a_height-ssbump"
 	"$ssbump" "1"
 	"%keywords" "portal"
 

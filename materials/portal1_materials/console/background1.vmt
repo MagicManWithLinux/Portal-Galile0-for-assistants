@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\console/background1"
+	"$basetexture" "portal1_materials/console/background1"
 	"$vertexcolor" 1
 	"$vertexalpha" 1
 	"$ignorez" 1

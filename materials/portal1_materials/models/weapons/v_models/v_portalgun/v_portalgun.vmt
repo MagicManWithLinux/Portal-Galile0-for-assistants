@@ -1,15 +1,15 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models\weapons\v_models\v_portalgun/v_portalgun"
+	"$basetexture" "portal1_materials/models/weapons\v_models\v_portalgun/v_portalgun"
 //	"$translucent" "1"
 
-	"$bumpmap" "portal1_materials\models\weapons\v_models\v_portalgun\v_portalgun_normal"
+	"$bumpmap" "portal1_materials/models/weapons\v_models\v_portalgun\v_portalgun_normal"
 	"$phong" "1"
-	"$phongexponenttexture" "portal1_materials\models\weapons\v_models\v_portalgun\v_portalgun_exponent"
+	"$phongexponenttexture" "portal1_materials/models/weapons\v_models\v_portalgun\v_portalgun_exponent"
 //	"$phongexponent" "25"
 	
 	"$phongboost" "3"	
-	//"$lightwarptexture" "models\weapons\v_models\v_portalgun\v_portalgun_lightwarp"
+	//"$lightwarptexture" "portal1_materials/models/weapons\v_models\v_portalgun\v_portalgun_lightwarp"
 	"$phongfresnelranges"	"[5 1 2]"
 //	"$halflambert" "1"
 

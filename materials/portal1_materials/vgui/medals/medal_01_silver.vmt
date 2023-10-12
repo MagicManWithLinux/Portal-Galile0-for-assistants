@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\VGUI\medals\medal_01_silver"
+	"$basetexture" "portal1_materials/VGUI\medals\medal_01_silver"
 	"$translucent" 1
 	"$alpha" 1
 }

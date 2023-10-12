@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\gamepadui/portal_logo"
+	"$basetexture" "portal1_materials/gamepadui/portal_logo"
 	"$vertexcolor" 1
 	"$vertexalpha" 1
 	"$translucent" 1

@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "portal1_materials\metal/metal_modular_floor002"
+	"$basetexture" "portal1_materials/metal/metal_modular_floor002"
 	"$surfaceprop" "metal"
 	"%keywords" "portal"
 	"%noportal" 1
@@ -10,7 +10,7 @@
 	"$envmapcontrast" 1
 	"$envmapsaturation" 1
 	"$envmaptint" "[0.6 0.5 0.5]"
-	"$bumpmap" "portal1_materials\metal/metal_modular_floor001_height-ssbump"
+	"$bumpmap" "portal1_materials/metal/metal_modular_floor001_height-ssbump"
 	"$ssbump" "1"
 
 	"$reflectivity" "[ .35 .30 .27 ]" //this is a artificial radiosity boost

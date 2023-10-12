@@ -1,7 +1,7 @@
 VertexLitGeneric
 {
-	"$basetexture" "portal1_materials\models\props_bts\computer"
+	"$basetexture" "portal1_materials/models/props_bts/computer"
 	"$envmap" "env_cubemap"
-	"$envmapmask" "models\props_bts\computer_case_ref"
+	"$envmapmask" "portal1_materials/models/props_bts/computer_case_ref"
 
 }

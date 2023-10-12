@@ -1,6 +1,6 @@
 //"LightmappedGeneric"
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\vgui/resource/black_round_rect"
+	"$basetexture" "portal1_materials/vgui/resource/black_round_rect"
 	"$vertexalpha" 1
 }

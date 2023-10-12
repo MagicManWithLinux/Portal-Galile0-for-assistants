@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\sprites/orangelight"
+	"$basetexture" "portal1_materials/sprites/orangelight"
 //	"$ignorez" 1
 	"$additive" 1
 	"$vertexcolor" 1

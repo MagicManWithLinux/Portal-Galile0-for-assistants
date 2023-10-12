@@ -1,8 +1,8 @@
 "UnlitTwoTexture"
 //"Modulate"
 {
-	"$baseTexture"  "effects/redlaser1"
-	"$Texture2" "effects/redlaser1_smoke"
+	"$baseTexture"  "portal1_materials/effects/redlaser1"
+	"$Texture2" "portal1_materials/effects/redlaser1_smoke"
 	"$nocull" "1"	
 	"$nodecal" "1"
 	"$additive" "1"

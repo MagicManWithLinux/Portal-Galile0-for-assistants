@@ -1,6 +1,6 @@
 "Spritecard"
 {
-	"$basetexture" "portal1_materials\effects/softglow_translucent"
+	"$basetexture" "portal1_materials/effects/softglow_translucent"
 
 	// Some settings to reduce fillrate for low end GPUs (added for Mac release)
 	"lowfill?$minfadesize" ".2"

@@ -1,14 +1,14 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models\props/Turret_01"
+	"$basetexture" "portal1_materials/models/props/Turret_01"
 
-	"$bumpmap" "portal1_materials\models\props\turret_01_normal"
+	"$bumpmap" "portal1_materials/models/props\turret_01_normal"
 	"$phong" "1"
-	"$phongexponenttexture" "portal1_materials\models\props\turret_01_exponent"
+	"$phongexponenttexture" "portal1_materials/models/props\turret_01_exponent"
 //	"$phongexponent" "25"
 	
 	"$phongboost" "10"	
-	//"$lightwarptexture" "models\props\turret_01_lightwarp"
+	//"$lightwarptexture" "portal1_materials/models/props\turret_01_lightwarp"
 	"$phongfresnelranges"	"[5 1 2]"
 //	"$halflambert" "1"
 

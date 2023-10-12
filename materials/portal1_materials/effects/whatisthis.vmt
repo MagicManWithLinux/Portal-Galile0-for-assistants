@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\Effects/whatisthis"
+	"$basetexture" "portal1_materials/Effects/whatisthis"
 	"$surfaceprop"	"no_decal"
 	"$translucent"	1
 	"$vertexcolor"	1

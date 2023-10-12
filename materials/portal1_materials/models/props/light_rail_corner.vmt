@@ -1,15 +1,15 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models\props/Light_Rail_Corner"
+	"$basetexture" "portal1_materials/models/props/Light_Rail_Corner"
 
 
-	"$bumpmap" "portal1_materials\models\props\Light_Rail_Corner_normal"
+	"$bumpmap" "portal1_materials/models/props\Light_Rail_Corner_normal"
 	"$phong" "1"
-	"$phongexponenttexture" "portal1_materials\models\props\Light_Rail_Corner_exponent"
+	"$phongexponenttexture" "portal1_materials/models/props\Light_Rail_Corner_exponent"
 //	"$phongexponent" "25"
 	
 	"$phongboost" "10"	
-	"$lightwarptexture" "models\props\Light_Rail_Corner_lightwarp"
+	"$lightwarptexture" "portal1_materials/models/props\Light_Rail_Corner_lightwarp"
 	"$phongfresnelranges"	"[5 1 2]"
 //	"$halflambert" "1"
 

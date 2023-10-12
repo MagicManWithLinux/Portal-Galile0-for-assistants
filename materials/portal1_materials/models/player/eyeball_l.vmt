@@ -21,7 +21,7 @@
 	// DX8 ps.1.1 fallbacks, original HL2 eyes
 	"Eyes_dx8"
 	{
-		"$basetexture" "portal1_materials\/models/player/eyeball_l_dx8"
+		"$basetexture" "portal1_materials//models/player/eyeball_l_dx8"
 		"$iris" "/models/player/pupil_l"
 	}
 }

@@ -1,6 +1,6 @@
 "LightMappedGeneric"
 {
-	"$basetexture" "portal1_materials\plastic/plastic_light002c"
+	"$basetexture" "portal1_materials/plastic/plastic_light002c"
 	"$selfillum"	1
 	"$surfaceprop" "Plastic_Box"
 	"%keywords" "portal"

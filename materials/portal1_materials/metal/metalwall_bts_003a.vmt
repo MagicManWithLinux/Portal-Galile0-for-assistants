@@ -1,7 +1,7 @@
 // envmaptint_fix
 "LightmappedGeneric"
 {
-	"$basetexture" "portal1_materials\Metal/metalwall_bts_003a"
+	"$basetexture" "portal1_materials/Metal/metalwall_bts_003a"
 	"%keywords" "portal"
 	"$surfaceprop" "metal"
 	"$envmaptint" "[ .10 .05 .05 ]"
@@ -13,7 +13,7 @@
 
 	"LightmappedGeneric_DX9"
 	{
-		"$bumpmap" "portal1_materials\Metal/metalwall_bts_003a_normal"
+		"$bumpmap" "portal1_materials/Metal/metalwall_bts_003a_normal"
 		//"$nodiffusebumplighting" 1
 		"$normalmapalphaenvmapmask" 1
 		"$envmaptint" "[ .10 .05 .05 ]"
@@ -21,14 +21,14 @@
 
 	"LightmappedGeneric_DX8"
 	{
-		"$bumpmap" "portal1_materials\Metal/metalwall_bts_003a_normal"
+		"$bumpmap" "portal1_materials/Metal/metalwall_bts_003a_normal"
 		//"$nodiffusebumplighting" 1
 		"$normalmapalphaenvmapmask" 1
 	}
 
 	"LightmappedGeneric_NoBump_DX8"
 	{
-		"$basetexture" "portal1_materials\Metal/metalwall_bts_003a"
+		"$basetexture" "portal1_materials/Metal/metalwall_bts_003a"
 		"$basealphaenvmapmask" 1
 	}
 
@@ -36,7 +36,7 @@
 	{
 		// put HDR override stuff here
 		"$envmaptint" "[ .10 .05 .05 ]"
-		"$bumpmap" "portal1_materials\Metal/metalwall_bts_003a_normal"
+		"$bumpmap" "portal1_materials/Metal/metalwall_bts_003a_normal"
 		"$normalmapalphaenvmapmask" 1
 	}
 }

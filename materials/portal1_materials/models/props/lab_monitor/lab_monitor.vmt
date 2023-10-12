@@ -1,13 +1,13 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models/props/lab_monitor/lab_monitor"
+	"$basetexture" "portal1_materials/models/props/lab_monitor/lab_monitor"
 	"$surfaceprop"	"plastic"
-	"$bumpmap" "portal1_materials\portal1_materials\models/props/lab_monitor/lab_monitor_n"
+	"$bumpmap" "portal1_materials/models/props/lab_monitor/lab_monitor_n"
 	"$selfillum"	1
 	
 	//phong properties
 	"$phong"	"1"
 	"$phongboost"	"1"
-	"$phongexponenttexture" "portal1_materials\models/props/lab_monitor/lab_monitor_exp"
+	"$phongexponenttexture" "portal1_materials/models/props/lab_monitor/lab_monitor_exp"
 	"$phongfresnelranges"	"[1 1.5 2]"
 }

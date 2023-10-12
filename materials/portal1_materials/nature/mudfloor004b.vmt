@@ -1,9 +1,9 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "portal1_materials\Nature/mudfloor004b"
+	"$basetexture" "portal1_materials/Nature/mudfloor004b"
 	"$surfaceprop" "dirt"
 	"%keywords" "Portal"
-	"$bumpmap" "portal1_materials\Nature/mudfloor004b_normal"
+	"$bumpmap" "portal1_materials/Nature/mudfloor004b_normal"
 	"$normalmapalphaenvmapmask" 1
 	"$envmapcontrast" 1
 	"$envmapsaturation" 1

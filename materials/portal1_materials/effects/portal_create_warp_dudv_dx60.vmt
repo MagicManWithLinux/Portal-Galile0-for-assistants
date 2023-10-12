@@ -1,7 +1,7 @@
 "UnlitGeneric"
 {
  	"$model" 1
-	"$basetexture" "portal1_materials\effects/portal_create_warp_dx70"
+	"$basetexture" "portal1_materials/effects/portal_create_warp_dx70"
 	"$additive" "1"
 	"$ignorez" "1"
 	"Proxies"

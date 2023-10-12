@@ -2,8 +2,8 @@
 "LightmappedGeneric"
 {
 
-	"$basetexture" "portal1_materials\nature/hazard_liquid"
-	"$bumpmap" "portal1_materials\Nature/slime_normal"
+	"$basetexture" "portal1_materials/nature/hazard_liquid"
+	"$bumpmap" "portal1_materials/Nature/slime_normal"
 	"$abovewater" 0
 
 	"$selfillum" 1

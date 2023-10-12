@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\overlays/overlays_scrawlings_008"
+	"$basetexture" "portal1_materials/overlays/overlays_scrawlings_008"
 	"$surfaceprop"	"default"
 	"$translucent"	1
 	"$decal"	1

@@ -4,5 +4,5 @@
 	"$spriteorigin" "[ 0.50 0.50 ]"
 	"$spritescale" "1"
 	"$translucent" 1
-	"$basetexture" "portal1_materials\sprites/sphere_silhouette"
+	"$basetexture" "portal1_materials/sprites/sphere_silhouette"
 }

@@ -1,6 +1,6 @@
 "UnLittwotexture"
 {
-	"$basetexture" "portal1_materials\models/props/lab_monitor/lab_monitor_logo"
+	"$basetexture" "portal1_materials/models/props/lab_monitor/lab_monitor_logo"
 	"$surfaceprop"	"metal"
 "%tooltexture" "dev/dev_scanline"
 "$texture2" "dev/dev_scanline"

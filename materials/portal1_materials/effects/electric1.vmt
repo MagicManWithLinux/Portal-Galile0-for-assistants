@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\Effects/electric1"
+	"$basetexture" "portal1_materials/Effects/electric1"
 	"$surfaceprop"	"no_decal"
 	"$additive"	1
 //	"$model"		1

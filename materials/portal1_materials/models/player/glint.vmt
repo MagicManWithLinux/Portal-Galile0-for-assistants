@@ -1,7 +1,7 @@
 "UnlitGeneric"
 {
 	// Original shader: AddTexture
-	"$basetexture" "portal1_materials\models/player/glint"
+	"$basetexture" "portal1_materials/models/player/glint"
 	"$additive" 1
 	"$model" 1
 }

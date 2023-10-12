@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "portal1_materials\Metal/metalgrate011a"
+	"$basetexture" "portal1_materials/Metal/metalgrate011a"
 	"%compilepassbullets" 1
 	"$surfaceprop" "metalgrate"
 	"%keywords" "c17industrial,kraken"

@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "portal1_materials\effects/portal_cleanser"
+	"$basetexture" "portal1_materials/effects/portal_cleanser"
 	"$additive" 1
 	"$vertexcolor" 1
 	"$vertexalpha" 1

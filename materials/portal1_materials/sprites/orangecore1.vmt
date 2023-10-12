@@ -3,6 +3,6 @@
 	"$additive" 1
 	"$vertexalpha" 1
 	"$vertexcolor" 1
-	"$basetexture" "portal1_materials\sprites/orangecore1"
+	"$basetexture" "portal1_materials/sprites/orangecore1"
 //	"$ignorez" 1
 }

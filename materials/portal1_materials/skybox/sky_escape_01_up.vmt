@@ -1,7 +1,7 @@
 "UnlitGeneric"
 {
 
- 	"$basetexture" "portal1_materials\skybox/sky_escape_01_up.vtf"
+ 	"$basetexture" "portal1_materials/skybox/sky_escape_01_up.vtf"
 	"$hdrbasetexture" "skybox/sky_escape_01_up.vtf"
  	"$nofog" 1
  	$ignorez 1

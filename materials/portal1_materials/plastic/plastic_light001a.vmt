@@ -1,7 +1,7 @@
 // envmaptint_fix
 "LightmappedGeneric"
 {
-	"$basetexture" "portal1_materials\plastic/plastic_light001a"
+	"$basetexture" "portal1_materials/plastic/plastic_light001a"
 	"$surfaceprop" "Plastic_Box"
 	"%keywords" "portal"
 

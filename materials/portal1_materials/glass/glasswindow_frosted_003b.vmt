@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "portal1_materials\Glass/glasswindow_frosted_003b"
+	"$basetexture" "portal1_materials/Glass/glasswindow_frosted_003b"
 	"$envmap" "env_cubemap"
 	"$surfaceprop" "glass"
 	"%keywords" "portal"

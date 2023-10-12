@@ -1,6 +1,6 @@
  "LightMappedGeneric"
  {
-  "$basetexture" "portal1_materials\signage/indicator_lights/indicator_lights_corner_floor"
+  "$basetexture" "portal1_materials/signage/indicator_lights/indicator_lights_corner_floor"
   "$surfaceprop" "glass"
   "$selfillum" 1
   "%keywords" "portal"

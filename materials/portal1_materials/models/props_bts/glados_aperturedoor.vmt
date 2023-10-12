@@ -1,14 +1,14 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\models\props_bts/Glados_Aperturedoor"
+	"$basetexture" "portal1_materials/models/props_bts/Glados_Aperturedoor"
 	"envmap" "env_cubemap"
 	"$surfaceprop"	"metal"
-	//"$bumpmap" "portal1_materials\portal1_materials\models/props_bts/Glados_Aperturedoor_normal"
+	//"$bumpmap" "portal1_materials/models/props_bts/Glados_Aperturedoor_normal"
         "$selfillum" 1
 	//phong properties
 	//"$phong"	"1"
 	//"$phongboost"	"1"
-	//"$phongexponenttexture" "portal1_materials\models/props_bts/Glados_Aperturedoor_exponent"
+	//"$phongexponenttexture" "portal1_materials/models/props_bts/Glados_Aperturedoor_exponent"
 	//"$phongfresnelranges"	"[1 1.5 2]"
 
 }

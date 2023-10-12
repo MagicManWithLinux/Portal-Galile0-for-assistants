@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "portal1_materials\Models/props_animsigns/awe_total_grey"
+	"$basetexture" "portal1_materials/Models/props_animsigns/awe_total_grey"
 	"$surfaceprop" "metal"
 	
 	"$translucent" "1"
